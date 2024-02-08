@@ -45,6 +45,3 @@
     php artisan serve
     ```
    L'application sera accessible à l'adresse [http://localhost:8000](http://localhost:8000) par défaut.
-
-
-
